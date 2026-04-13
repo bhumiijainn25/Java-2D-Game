@@ -35,7 +35,7 @@ To run the game locally, follow these steps:
 
 ### Contributors
 
-- [Mudit Jain](https://github.com/MUDITJAINN)
+- [Bhumi Jain](https://github.com/bhumiijainn25)
 
 ### License
 
